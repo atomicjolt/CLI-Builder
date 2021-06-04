@@ -1,3 +1,3 @@
 # CLI Builder
 
-A composable toolset to build delightful commande line interfaces.
+A composable toolset to build delightful command line interfaces.
